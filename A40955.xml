@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voice of the first trumpet sounding an alarme to call to judgement. Together with a flying roll to the scattered and dispersed ones, among the outcasts of the professed Israelites in England; and where it shall meete with them. VVritten in the time of Israels captivity, by one whom the people of the world call a Quaker; by name, Richard Farnevvorth.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40955</idno>
+            <idno type="STC">Wing F512B</idno>
+            <idno type="STC">ESTC R218273</idno>
+            <idno type="EEBO-CITATION">99829882</idno>
+            <idno type="PROQUEST">99829882</idno>
+            <idno type="VID">34329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voice of the first trumpet sounding an alarme to call to judgement. Together with a flying roll to the scattered and dispersed ones, among the outcasts of the professed Israelites in England; and where it shall meete with them. VVritten in the time of Israels captivity, by one whom the people of the world call a Quaker; by name, Richard Farnevvorth.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A flying roll to the scattered and dispersed ones, among the outcasts of the professed Israelites in England; and where it shall meete with them" has caption title on p. 9; register and pagination are continuous.</note>
+                  <note>Tightly bound and cropped, with some loss of print.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34329:1"/>
+            <pb facs="tcp:34329:1" rendition="simple:additions"/>
+            <p>A VOICE OF THE FIRST TRUMPET, Sounding an Alarme to call to Judgment.</p>
+            <p>
+               <hi>TOGETHER WITH</hi> A flying Roll to the ſcattered and diſperſed ones among the Outcaſts of the profeſſed <hi>Iſraelites</hi> in <hi>England;</hi> and where it ſhall meete with them.</p>
+            <p>
+               <hi>Written in the time of</hi> Iſraels <hi>Captivity, by one whom the people of the World call a Quaker; By name,</hi> RICHARD FARNEVVORTH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:34329:2"/>
+            <pb facs="tcp:34329:2"/>
+            <head>A VOICE OF THE FIRST TRUMPET, Sounding an Alarme to call to JUDGEMENT.</head>
+            <p>ALL people every where repent, and turne to the Lord with ſpeed,<note place="margin">Iſa. 34.1, 2, 3, 4, 5. Iſa. 66.15, 16.</note> for the great day of the Lord is comming, Now the abhomination of the deſolation, ſpoken of by <hi>Daniel</hi> the Prophet ſtands in the holy place, let him that reads underſtand; <hi>Awake, Awake, and ſtand up to Judgement, Repent and turne to the Lord with ſpeed, for the great day of the Lord cometh; it haſteth greatly, wherein the Lord will plead with all fleſh, by his ſword and by fire, and great ſhall be the ſlaine of them;</hi> he will cut off the <hi>Chemerims,</hi> the Black-Coats,<note place="margin">Zeph. 1.4.</note> with the Prieſts, and they ſhall weare no more a rough Gar<g ref="char:EOLhyphen"/>ment, to deceive, and the Lord will cut off them that beare Silver out of the Land. The day of the Lord cometh, wherein the great man ſhall cry bitterly;<note place="margin">Zeph. 13.4. Zeph. 1.11, 12. Joel 2.10, 11, 12. 2 Pet. 3.10, 11, 12, 13.</note> Thus ſaith the Lord, <hi>Blow the Trumpet in Sion, ſound <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n alarme in my holy mountaine, let all the Inhabitants of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he land tremble, the Sun ſhall be turned into darkneſſe, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Moone into bloud, and the Stars ſhall withdraw their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ining,</hi> And <hi>Heaven and Earth ſhall paſſe away, but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ot one jot nor tittle of my word, ſhall in no wiſe faile, till <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l be fulfilled;</hi> Now the Lord is fulfilling <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is promi<g ref="char:EOLhyphen"/>ſes,
+<pb n="2" facs="tcp:34329:3"/>made in the time of old, and the earth ſhall be burnt,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ch. 13.8,</note> with all the workes therein: Nevertheleſſe, according to his promiſe, we looke for new Heavens and new Earth,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 21.23, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the end. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 32.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4.5.</note> wherein ſhall dwell righteouſneſſe, and the Nations that are ſaved, ſhall walke in the glo<g ref="char:EOLhyphen"/>rious light and liberty of the Sons of God, and ſhall come and ſee his glo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y.</p>
+            <p>Now all people whoſe mindes are abroad, and whoſe hearts are in the earth, running on in the broad way that leads to deſtruction, conſider where you are, and returne to the Lord whilſt you have time,<note place="margin">Mat. 7.13.</note> now the Lord is coming to call all to an account, whoſe ſer<g ref="char:EOLhyphen"/>vants they are, and whoſe workes they have wrought. <hi>Know ye not,</hi>
+               <note place="margin">Rom. 6.16.</note> 
+               <hi>that his ſervants you are, to whom ye doe obey?</hi> he that commits ſinne is the ſervant of ſin; Let every one that names the name of Chriſt, depart from iniquity,<note place="margin">Mal. 4.</note> 
+               <hi>the Lord is of purer eyes then to behold Iniquity,</hi> he is a conſuming fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and no uncleane thing ſhall ſtand before him; <hi>Every tree that bringeth not forth good fruit,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Joh. 4.</note> 
+               <hi>ſhall be hewen downe, and caſt into the fire;</hi> behold the day commeth that ſhall burne as an Oven, and all that are proud, and all that doe wickedly, ſhall be as ſtubble,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 66.15, 6.</note> and the day that commeth ſhall burne and conſume them up, and ſhall leave them neither roote nor branch; every one in particular conſider whoſe ſervan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s you are, for he that commi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſin is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſervant of the Devill, and every one muſt be trye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by fire, the Lord is coming to plead with all fleſh, by his ſword and by fire, and all fruitleſſe trees muſt be cut downe and caſt into the Lake,<note place="margin">Mat. 25.41<g ref="char:punc">▪</g> o ther 46.</note> that burneth with fire and Brimſtone; ſee what trees you are every one and what fruit is brought forth by you, for the day doth diſcover every mans workes, of what ſort it is and every man muſt be rewarded according to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deeds; ſee what trees you are, and what fruits are brought forth by you; cumber not the ground ye fruit<g ref="char:EOLhyphen"/>leſſe trees,<note place="margin">Rev. 13.18</note> that bringeth forth nothing but wilde grapes
+<pb n="3" facs="tcp:34329:3"/>as Pride and Drunkenneſſe, Covetouſneſſe and Anger, Wrath and Maliciouſneſſe, and Envie, and Oppreſſi<g ref="char:EOLhyphen"/>on, grinding the faces of the poore, and Pleaſure, and Wantonneſſe, and fooliſh Jeaſting, and filthy Communication, <hi>for every Idle word,</hi>
+               <note place="margin">Rev. 13.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 16, 17, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>that men ſhall speake, they muſt give an account, now that the Lord is coming to Judgement;</hi> feare the Lord God Almighty, and give glory to his name, for the houre of his Judge<g ref="char:EOLhyphen"/>ments is comming, and give over worſhipping the Beaſt, for all the world wonders and worſhips the Beaſt, but thoſe who have found heir names written in the Lambs booke of Life;<note place="margin">2 Theſ. 1.7, 8, 9, 10</note> and they that worſhip the Beaſt and his Image, muſt drinke of the wine of the wrath of the Almighty poured forth into the cup of his Indignation, wrath without mixture, and muſt bee tormented with fire and Brimſtone, in the preſence of his holy Angels, and in the preſence of the Lambe; and the ſmoake of their torment aſcendeth up for ever and ever, and they have no reſt day nor night that worſhips the Beaſt and his Image;<note place="margin">Iſa. 28.</note> and whoſoever re<g ref="char:EOLhyphen"/>ceiveth the marke of the Beaſt, <hi>Rev.</hi> 14.9, 10, 11. feare the Lord God Almighty, and give glory to his name, and depart from Iniquity, leſt the Judgements of the Lord fall downe from Heaven upon you; for the wrath of God is to be revealed from Heaven, in flames of fire, upon all the children of diſobedience. Houle and weepe for the miſery that is coming,<note place="margin">Iſa. 34.1 2, 3, 4, 5.</note> except ye repent and turne to the Lord with ſpeed; haſte haſte to meete the Lord, by true repentance. Houle ye Drunkards of what ſort ſoever, the curſe of God is upon you; woe to all proud and luſtfull ones, that luſt after envy, devourers and murderers of the righteous ones in your hearts; The day of vengeance is coming upon you, all that delight in unrighteouſneſſe: <hi>Vengeance is mine, and I will repay ſaith the Lord;</hi> and <hi>he that envies is a Murderer,</hi> as ſaith the Scripture, and <hi>no murderer hath eternall life abiding in him,</hi> 1 <hi>Job.</hi> 3.15.
+<pb n="2" facs="tcp:34329:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:34329:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:34329:5"/>Woe to all Hypocrites and diſſemblers, that ſaith one thing and doe another: a double minded man is un<g ref="char:EOLhyphen"/>ſtable in all his wayes, and the wrath of God abideth on the children of diſobedience. Woe to all Backbi<g ref="char:EOLhyphen"/>ters,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. 13.41.</note> Cozeners and Cheaters, woe to all Scoffers, and Scorners, and Deriders, that ſpeake evill of that they know not. Woe to all Luſtfull and Revengefull ones, that delight in miſchiefe, living in Iniquity, and ſo departs from the living God and follow vaine de<g ref="char:EOLhyphen"/>lights: <hi>Let no man deceive you with vaine words, for becauſe of theſe things, the wrath of God commeth upon the children of diſobedience,</hi> Eph. 5.1 to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he 7. Woe to ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that adde ſin unto ſin, and that draw Iniquity, as with cords of Vanity, that adde D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unkenneſſe to Thirſt, and Pride to Covetouſneſſe, and Envy to Wrath, and Backbiting to Maliciouſneſſe, and Cozening to Cheating, and Scoffing to Scornefulneſſe, and Plea<g ref="char:EOLhyphen"/>ſure to Wantonneſſe, and ſo <hi>nouriſh their hearts as in a day of ſlaughter, Jam.</hi> 5.5. and kill and ſlaye the holy one and the Juſt. Woe to them that call evill good, that put light for darkneſſe, and darkneſſe for light, and ſo draw Iniquity as with Cart-ropes, and adde ſinne to ſinne, Gaming to Sporting, and Swearing to Lying, and Hypocriſie to Diſſimulation, and ſo luſt after Revenge to Perſecution, which are fruits of the Devill: they that are after the Fleſh, they perſecure them that are after the Spirit; and the fruits of the fleſh are manifeſt, which are theſe, A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery, Fornication, Uncleaneneſſé, Laſciviouſneſſe, Witch<g ref="char:EOLhyphen"/>craft, Hatred, Variance, Wrath, Strife, Seditions, Hereſies, Envyings, Murders, Drunkenneſſe, and ſuch like; as Pride and Oppreſſion, and grinding the faces of the Poore, and Lying and Swearing, and Pleaſures and wantonneſſe, and Scoffing and ſcornfulneſſe and Cozening and Chearing, and doublemindedneſſe, which is Hypocriſie, but <hi>they which doe ſuch things, ſhall not inherit the kingdome of Heaven, Gal.</hi> 5.19, 20, 21.
+<pb n="5" facs="tcp:34329:5"/>God is pure, and of purer eyes, then to behold Iniqui<g ref="char:EOLhyphen"/>ty; be not deceived, God will not be mocked, for ſuch as ye ſow, ſuch ſhall ye reape,<note place="margin">Rom. 8.8.</note> they that ſow to the fleſh, ſhall of the fleſh reape Corruption, and they that are in the fleſh cannot pleaſe God:<note place="margin">Iſa. 2.10, 11, 12.</note> cumber not the ground ye fruitleſſe trees, that bring forth no fruit, but that which is corrupt; thou proud and lofty one, thou are a fruitleſſe tree, and muſt be cut downe,<note place="margin">Mat. 3.10.</note> 
+               <hi>Iſa.</hi> 2.17. <hi>All the haughtineſse of man muſt be brought downe, and all the loftineſſe of man laid low, that the Lord alone may be exalted,</hi> and the day of the Lord is coming upon all fleſh houle and weepe, you that live in envy and wrath, which are fruitleſſe trees, Cumberers of the ground, and muſt be cut downe and caſt into the fire of the Indignation of the Lord God Almighty.<note place="margin">Mat. 7.19, 20.</note> Cum<g ref="char:EOLhyphen"/>ber not the ground ye Drunkards, ye are all fruitleſſe trees, and muſt be cut down by the power of the Lord, and caſt into the fire;<note place="margin">Rev. 18.</note> cumber not the ground ye Scoffers, and Scorners, and Deriders, your deeds make you manifeſt: you are cumberers of the ground, ye Cozeners and Cheaters, Backbiters and malitious ones, and Perſecuters,<note place="margin">Rev. 1.14, 15.</note> you are fruitleſſe trees that <hi>Jude</hi> ſpeakes of, that defile the fleſh in living in luſt and exceſſe to that which is evill, no fruit is brought forth by you, but wilde grapes; Envy, Wrath, Malice,<note place="margin">Rev. 20.10.</note> Scoffing, and Scorning, and fooliſh Jeaſting, and Drunkenneſſe and Perſecution, which are fruits of unrighteouſneſſe; but <hi>know you not,</hi>
+               <note place="margin">Rev. 20.14, 15.</note> 
+               <hi>that the unrighteous ſhall not inherit the kingdome.</hi> See 1 <hi>Cor.</hi> 6.9, 10, 11. and <hi>Eph.</hi> 5.3, 4, 5. and <hi>Rom.</hi> 29.30, 31, 32. and <hi>Rom.</hi> 2.8, 9. and <hi>Rev.</hi> 21.8. <hi>Rev.</hi> 22.15. Read theſe Scriptures &amp; ſee if you can own your ſelves to be in the condition that they are ſpoken to: <hi>All that follow the Imaginati<g ref="char:EOLhyphen"/>ons of your owne hearts, the Leaders of the people cauſe them to erre, Iſa.</hi> 9.16. And, <hi>the blinde lead the blind, and both ſhall fall into the ditch together, Mat.</hi> 15.14. Like Prieſt, like People, and drunk in Iniquity,<note place="margin">Hoſea 4.</note> and live
+<pb n="6" facs="tcp:34329:6"/>in Envy and Wrath, perſecuting the Righteous as the Jews and Scribes and Phariſees did, and holds up the ſame things that they did as in <hi>Mat.</hi> 23. But woe was their portion then, and it is the portion of all the world that walkes on in their ſteps now. Repent and turne to the Lord with ſpeede, for the great and mighty day draweth neere, which is foretold of by the Prophe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Zephaniah:</hi> Reade <hi>Zeph.</hi> 1.14.18. read them over an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weigh them well, and returne to the Lord with all you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearts, that he may have mercy upon you. Now yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have time prize it, and <hi>feare the Lord God Almighty and worſhip not the Beaſt, for the houre of his Judgement is coming. Rev</hi> 14.6, 7. Woe to all that act in unrigh<g ref="char:EOLhyphen"/>teouſneſſe of what ſort ſoever: <hi>The Princes are Rebel<g ref="char:EOLhyphen"/>lious and companions of Theeves, every one loveth gifts, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> followeth after rewards,</hi>
+               <note place="margin">Iſa. 1.23, 24.</note> 
+               <hi>they judge not the Fatherleſſe neither doth the cauſe of the Widdow come unto them. There<g ref="char:EOLhyphen"/>fore ſaith the Lord, the Lord of Hoſts, the mighty one to Iſrael:</hi>
+               <note place="margin">Ver. 22.</note> 
+               <hi>Ah I will eaſe me of mine enemies, and avenge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of mine adverſaries; Vengeance is mine, and I will repa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaith the Lord. How is the beautifull City become an har<g ref="char:EOLhyphen"/>lot, it was full of Judgement, Righteouſneſſe lodged in i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but now Murderers:</hi> But <hi>Zion ſhall be redeemed wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Judgements, and her Converts with Righteouſneſſe, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the deſtruction of the tranſgreſſors and of the ſinners ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be together: and they that forſake the Lord ſhall be con<g ref="char:EOLhyphen"/>ſumed,</hi> Iſa. 1.27, 28. And the Lord will purchaſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him a peculiar people, that they may worſhip him i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirit and in truth, and he will returne to them a pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Language, that they may call upon the name of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord with one conſent, and the remnant of <hi>Iſrael</hi> ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not doe Iniquity, nor ſpeake Lyes, neither ſhall a d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceitfull tongue be found in their mouth; for they ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> feed and lye downe and none ſhall make them afrai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Zeph.</hi> 2.9. to the 15. &amp; the Lord alone will be the delig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of his people; and thus ſaith the Lord, <hi>I will turne <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hand upon thee, and purely purge away thy droſſe, and ta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:34329:6"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way all thy tinne, and I will Restore thy Judges as at the fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, and thy Counſellers as at the beginning; afterwards thou ſhalt be called the City of righteouſneſſe, the faithfull City,</hi> Iſa. 1.25, 26. And then every m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſhall ſit under <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is own Vine and under his Fig tree, &amp; no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhal make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem afraid: Rejoyce ye Saints and righ <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous ones, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he time of <hi>Iſraels</hi> deliverance draweth nigh; woe to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he world, and to all that live and act in unrighteouſ<g ref="char:EOLhyphen"/>neſſe, the great day of the Lord draweth nigh, it haſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th greatly. Repent and turne to the Lord, <hi>Seeke <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighteouſneſſe, ſeeke peace if ſo be ye may be hid in the day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Lords wrath,</hi> Zeph. 2.3. <hi>A fire is kindled, and who ſhall quench it?</hi> Mal. 4.1.</p>
+            <closer>
+               <dateline>This was read on the Market-Croſſe at <hi>Rotheram,</hi> 
+                  <date>upon a Market day.</date>
+               </dateline> 
+               <signed>Richard Farneworth.</signed>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb facs="tcp:34329:7"/>
+            <pb n="9" facs="tcp:34329:7"/>
+            <head>A FLYING ROLL To the ſcattered and diſper<g ref="char:EOLhyphen"/>ſed Ones, among the Outcaſts of the profeſſed ISRAELITES in <hi>England;</hi> and where it ſhall meete with them.</head>
+            <p>THat they may mind the light within, which will ga<g ref="char:EOLhyphen"/>ther them out of all the worlds ways, and worſhips, and cuſtomes, and faſhions, up into love and pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, to have Communion and fellowſhip with the ſpirit of love in yeilding obedience to it, written by one that hath beene in <hi>Egypt,</hi> and is got up into the Land of the living mercies of the Lord; where there is fulneſſe of joy and pleaſu es for evermore: and he is ſending into <hi>Egypt,</hi> to thoſe that are in Bondage, and darkneſſe, to viſit them there, ſending them a ſtaffe to walke by, that they may come and meet with him at New <hi>Ieru<g ref="char:EOLhyphen"/>ſalem,</hi> to worſhip the Father in ſpirit and in truth, and ſing Halleluj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hs to the higheſt, the Lord God omnipo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, who is King of Saints, King of Salem, King of Peace, ruling and raigning in power, in the hearts of his people, fulfilling his promiſes made of
+<pb facs="tcp:34329:8"/>old; to whom be glory and honour for ever more.</p>
+            <p>Now this is to you who are yet in <hi>Egypt,</hi> where th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſe of bondage is, and darkneſſe over-ſpreading a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the earth, ſuch darkneſſe as may be felt; ſtill wait upon the Lord, and ſtay a while, but ſee that you doe no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your watch neglect, leſt that you doe the Lords fre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> love reject; but wait within continually, having you mindes kept free, that when the Angell of the Lord i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comming to ſet you free from under the hands o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Pharaoh,</hi> that proud hard-hearted one; you may be willing for to follow him, to ſee the Lords owne power made manifeſt, and operating ſtill within, to ſlay the firſt borne in the Land; and proud <hi>Pharaoh</hi> unto a ſtand, by reaſon of the Lords owne powerfull hand which is ſo ſtrong in might, his enemies all to over<g ref="char:EOLhyphen"/>throw, and quite deſtroy both <hi>Pharaoh</hi> and his Hoſte, in the very heat of perſecution, that he may glorifie his name, and put the Heathen all to ſhame; he is the mighty Counſellor that doth ſo make his power known, in confounding the wiſe ones of the world, and all the earthly wiſedome, firſt within, and makes it ſwimme in the ſea of confuſion; where it is by his Counſell overthrowne, and ſo the pure ſeede (the <hi>Iſraelites</hi>) they are preſerved by his might. And thus the Lord alone doth give them power and victory, even in the enemies ſight: and ſo he gets his name a great re<g ref="char:EOLhyphen"/>nowne, and ſtill he leades his people on a way which is not to them knowne, that they may truſt in him, and minde the leadings of his love, in all their progreſs as they goe, both in the wilderneſſe where he doth try them all; and there they either ſtand or fall, becauſe the tempter doth himſelfe ſo much beſtirre to draw them there for to deſpaire, not minding ſtill to ſtand there alwaies in the Lords owne will, which would their owne wills croſſe; and ſo the enemy will come continually unto a loſſe: looke up to the light that is
+<pb facs="tcp:34329:8"/>held forth by the Angell there, the Meſſenger of the Covenant of grace, which is ſent by the Lord alone to lead his ſeed from place to place, following this Angell continually, yet will the enemies ſubtilties to you e<g ref="char:EOLhyphen"/>vermo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e diſcry, that ſo abiding in the light, it will the way unto you ſhew that leadeth through the croſſe, taking the ſhield of faith along: it drives downe the bulwarkes, ſtrong holds, and fenced Cities all along, and through the inhabited Countryes to turne to flight the Armies of the <hi>Aliens</hi> all, following the Angel of the Lord within, which will lead up the promiſed ſeed unto the King that ſits upon the Throne of grace, where all the ranſomed ones doe meet there with the Lord, in his owne holy place, at New <hi>Hieruſalem,</hi> to ſing forth praiſes unto him, who is <hi>Iſraels</hi> Keeper and their King, who leades his people home to him, that they may meet at <hi>Sion,</hi> there to ſing the ſongs of their deliverance, even in the preſence of their King, rejoicing in his love for evermore, <hi>Amen.</hi> Hallelujah to the higheſt.</p>
+            <p>All people every where, ceaſe from all your Prieſts, they deceive you, they are blinde guides,<note place="margin">Ezek. 2. to the</note> and are igno<g ref="char:EOLhyphen"/>rant of the true guide which is the ſpirit of truth, that guideth and leadeth into all truth: ceaſe from them all, they are found in the ſame ſtate and condition that the falſe Prophets were in among the children of <hi>Iſrael,</hi> after they were backſlided, and had broken the Covenant of the Lord, and the Lord was diſplea<g ref="char:EOLhyphen"/>ſed with them,<note place="margin">Hoſ. 4.5</note> and ſent his true Prophets to cry out a<g ref="char:EOLhyphen"/>gainſt them, as the Scriptures make mention. See <hi>Iſa.</hi> 56.10, 11, 12. verſes, and <hi>Ier.</hi> 5.30, 31. and <hi>Ezek.</hi> 34. and <hi>Hoſ.</hi> 6.9. and <hi>Mica</hi> 3.5, 6, 7. and v. 11. Read thoſe Scriptures,<note place="margin">Jer. 5.8</note> and ſee if your Prieſts be not now in the ſame condition that theſe falſe Prophets were in, which ran as they did, but the Lord never ſent them; there<g ref="char:EOLhyphen"/>fore ceaſe from them, <hi>Ier.</hi> 23.16, 17, 18, 19, 20. verſes, but the woe was to them then, and the woe is to
+<pb n="12" facs="tcp:34329:9"/>all that follow their ſteps now,<note place="margin">Mal. 2.</note> 
+               <hi>Ier.</hi> 23, 1, 2. <hi>Ezek.</hi> 34.2. <hi>Zach.</hi> 11.17. Therefore hold them not up leaſt the Judgements of God come upon both them,<note place="margin">Iob. 4.8.</note> and all that hold them up, for there is like Prieſt, like Peo<g ref="char:EOLhyphen"/>ple, <hi>Hoſea</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.9. and the leaders of them cauſe them to erre, <hi>Iſa.</hi> 9.16. and the blinde leads the blinde, and both ſhall fall together, <hi>Mat</hi> 15.14. A fooliſh people that have eyes and ſee not,<note place="margin">Mat. 7.19, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> eares and heare not, hearts and do not underſtand. What will you doe in the end (ſaith the Lord?) <hi>Ier.</hi> 5.31. <hi>Shall not my ſoule be avenged of ſuch a People as this?</hi>
+               <note place="margin">Mat. 3.10.</note> ver. 9. hold them not up for the Lord is againſt them, <hi>Ier.</hi> 23.30, 31, 32. Ceaſe from them, the Lord will make them contempti<g ref="char:EOLhyphen"/>ble in the eyes of his people, the curſe of God is upon them and their Doctrine,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 5.19, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, 21.</note> ſo that there is nothing brought forth by them, but B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yers and Thorns as Pride and Covetouſneſſe, Envy and Wrath, Malice and Scoffing, Scornfulneſſe and Revenge, and oppreſſion, and g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inding the faces of the poore, and perſceution, which are the fruits of the Devill; and know you not that the unrighteous ſhall not inherit the Kingdome of Heaven, 1 <hi>Cor.</hi> 6.9, 10. <hi>Eph</hi> 5.3, 4, 5 <hi>Gal.</hi> 5.19, 20, 21. <hi>Rev</hi> 21.8. <hi>Rev.</hi> 22.15. Be not deceived,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 1.16, 17.</note> God will not be mocked, he is of purer eyes then to beh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld iniquity; ceaſe to doe evill, learne to doe well; but downe with all your Prieſts, blinde Guides, whited Walls, and painted Sepulchres; the Lord is utterly againſt them, they are found unprofitable ſervants, their Kingdome muſt be taken from them and given to a People <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat will bring forth the fruits thereof. Thus ſaith the Lord, concerning the Prieſts, and falſe Prophets, which have beene foretold of theſe things, <hi>I will</hi> (ſaith the Lord) <hi>even ſend a curſe upon you, and will curſe your bleſſings, and I will corrupt your ſeede, and spread dung upon your faces, and make you contemptible in the eyes of the People,</hi> Mal. 2.1. to the 10 verſe, <hi>And they ſhall wears no more a rough garment to deceive the
+<pb facs="tcp:34329:9"/>people withall,</hi> Zach. 13.4, 5. For the Lord will de<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy the <hi>Chemarims</hi> (the Black Coats) with the Prieſts, as in <hi>Zeph.</hi> 1.4 But read all the Chapter,<note place="margin">Mal. 2.1 the 10.</note> and all theſe other Scriptures, and weigh them well, they are now to be fulfilled; take warning betime, and ceaſe from all your Hirelings, and Idoll-Shepheards, they are all deceivers, hold them not up, ceaſe from them all, every one; for he that is higheſt in notion, is the higheſt deceiver, and as your eyes are enlightened you will ſee it, though now you doe not; but it is be<g ref="char:EOLhyphen"/>cauſe your light is darkneſſe that you ſee by, and if that light which is in you be darkneſſe, how great is that darkneſſe? If you would know the truth, as it is in Jeſus, <hi>Ceaſe from man whoſe breath is in his noſtrills, for wherein is he accounted of? Iſa.</hi> 2.22. Ceaſe from all great and ſmall, wait wholly upon the Lord for teaching, who hath promiſed to teach all his himſelfe, as in <hi>Ier.</hi> 31.31. to 34. All the children of the Lord, they ſhall neede no man to teach them. Now the Lord is fulfilling and making good theſe promiſes to his people, and he teacheth them to profit; likewiſe <hi>Iſaiah</hi> he prophecied and foretold of this, in the 54. chap. and the 13. ver. where hee hath ſaid, <hi>All the Children of the Lord ſhall be taught of the Lord, and in righteouſneſſe ſhall they be eſtabliſhed, and they ſhall be far from oppreſſion;</hi> and the Lord hath foretold of this, by his ſervant the Prophet in <hi>Ezek.</hi> 34 11, 12, 13, 14, 15. The Lord alone is the teacher of all his himſelfe, and it is ſaid in <hi>Iohn,</hi> that <hi>they ſhall all be taught of the Lord, Iohn</hi> 6.45. and in <hi>Heb.</hi> 8.11. There it is ſaid, they ſhall not neede to teach one another, ſaith the Lord, they ſhall all know me, whom to know is life eternall; To know God, is to keep his Commands, as in the firſt Epiſtle of <hi>Iohn</hi> 2.3. He that ſaith he knoweth God and keepes not his commandements, is a lyar, ver. 4. But ſome will ſay, that none can keepe the Commandements of the Lord; there is none ſayes
+<pb n="14" facs="tcp:34329:10"/>ſo but the ſlothfull ſervant, that hideth his talent in the earth; and he counts God a hard Maſter, becauſe his heart is in the earth, and his love is to the world, which is enmity with God. The Saints which were taught of the Lord, their ſoules were purified in yielding obe<g ref="char:EOLhyphen"/>dience to the commands of the ſpirit, 1 <hi>Pet.</hi> 1.22. they ſaid it was their joy to keepe the commands of the Lord:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 3.</note> 
+               <hi>By this we know that we love the Children of God, when we love God and keepe his Commandements, for this is the love of God that we keepe his Commandements, and his Commandements are not grievous to him that is borne a<g ref="char:EOLhyphen"/>gaine;</hi> and none elſe keepeth them, 1 <hi>Iohn</hi> 5.2, 3, 4. 1 <hi>Iohn</hi> 3.7, 8, 9, 10. <hi>and he that keepeth his Comman<g ref="char:EOLhyphen"/>dements dwelleth in him, and hereby wee know that hee dwelleth in us, by the ſpirit that be hath given us,</hi> 1 <hi>Iohn</hi> 3.24. 1 <hi>Iohn</hi> 2.5<g ref="char:punc">▪</g> 
+               <hi>Luke</hi> 1.6. <hi>Rev.</hi> 14.1. to the 6<g ref="char:punc">▪</g> This was the condition of thoſe which were redeemed to the Lord; <hi>Hereby receive we the love of God, becauſe he hath laid downe his life for us, and we ought to lay downe our lives for the Brethren,</hi> 1 <hi>Iohn</hi> 3.16, 17. he that loveth not,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 4.7.</note> knowes not God, for God is love, 1 <hi>Iohn</hi> 4.7. <hi>In this was made manifeſt the love of God, becauſe he ſent his onely begotten Sonne into the World, that we might live through him,</hi> 1 <hi>Iohn</hi> 4.9. Now the world is ſet in mans heart,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1.4, 5<g ref="char:punc">▪</g>
+               </note> ſo that he cannot finde out the beginning nor the end of the worke of God, <hi>Eccleſ.</hi> 3.11. and <hi>(ſaith Ieſus Chriſt)</hi> I am the light of the world, that enlight<g ref="char:EOLhyphen"/>neth every one that commeth into the world: he that loves this light, brings his deedes to the light, that the light may prove them: he that hateth the light, hateth to be reproved, becauſe his deedes are evill: and there is his condemnation, <hi>Iohn</hi> 3.19, 20, 21. This light is within that ſhewes ſinne and evill: he that loves this light, will hate the evill diſcovered by it, to caſt it off and forſake it. Minde your Teacher within, you have a light, <hi>whereunto you doe well to take heede, as unto a light that ſhineth in a darke place, untill the da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:34329:10"/>dawne, and the day-ſtarre ariſe in your bearts,</hi> 2 <hi>Pet.</hi> 1.19. Minde that light within, and ſee what that doth diſco<g ref="char:EOLhyphen"/>ver to you, and be obedient to it, and there is your Teacher preſent with you, that light obeying it; there is your condemnation, that light diſo beying it: <hi>Exa<g ref="char:EOLhyphen"/>mine your ſelves, prove your ſelves,</hi>
+               <note place="margin">Rom. 14 17.</note> 
+               <hi>know you not your owne ſelves how that Ieſus Chriſt is in you except ye be Repro<g ref="char:EOLhyphen"/>bates?</hi> 2 <hi>Cor.</hi> 13.5. Learne to know Chriſt within, and believe them not, that would draw your mindes to ſeeke for him without; for many ſhall ſay, loe here is Chriſt, and loe there is Chriſt, but believe them not, <hi>Mat.</hi> 24.25, 26, 27. for (ſaith Jeſus Chriſt) the Kingdome of Heaven commeth not with obſervations, as, <hi>Loe here, and loe there, but the Kingdome of Heaven is within you,</hi>
+               <note place="margin">Mat. 7.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Luke</hi> 17.21. The Kingdome of Heaven conſiſts not in meat, or drinke, but in righteouſneſſe, peace, and joy in the Holy Ghoſt; but the King<g ref="char:EOLhyphen"/>dome of the World ſtands altogether in unrighteouſ<g ref="char:EOLhyphen"/>neſſe, envy, hatred, and perſecution, debate, and ſtrife, vaine pleaſures, oppreſſion, and grinding the faces of the poore, and joyes, and rejoices in iniquity,<note place="margin">Mat. 23.</note> which the woe is to: likewiſe the Kingdome of Heaven ſtandeth not in word but in power; but the Kingdome of the World ſtandeth altogether in word, without ei<g ref="char:EOLhyphen"/>ther life or power: they ſay and doe not, but in the truth of God its not the ſayer, but the doer, that ſhall be juſtified before him, <hi>Mat.</hi> 17.21. Be not profeſ<g ref="char:EOLhyphen"/>ſors, but poſſeſſors; for all profeſſion is of the curſed Fig-tree, that bringeth forth nothing but leaves; for there is nothing brought forth by the higheſt profeſ<g ref="char:EOLhyphen"/>ſors but leaves, faire ſhewes, and ſine words, phraſes which the curſe of God is unto; woe to you Scribes, and faire Sayers, Hypocrites, that appeare to be in words, that which you deny in actions; in words pro<g ref="char:EOLhyphen"/>feſſe love to God, but in actions deny him, <hi>Tit.</hi> 1.16. All poore ſimple hearts that have not ſuch eloquent words (as ſome have) be faithfull, as unto the Lord,
+<pb n="16" facs="tcp:34329:11"/>in what you know, as the light within doth diſcover it unto you, that's the true light, that which checks you, when you either lye, or ſweare, or uſe any deceit; it checks you when you doe amiſſe, hearkening to that it will turne your minde within, and cauſe a watch to be ſet over all your thoughts, words, and acti<g ref="char:EOLhyphen"/>ons, and bring you to ſtand in the fear of the Lord con<g ref="char:EOLhyphen"/>tinually, to caſt off and forſake that which is diſco<g ref="char:EOLhyphen"/>vered to you to be evill, by that light within you; and ſo you will be brought to faithfulneſſe in all things, both to God and Man, that your Yea may be Yea, and your Nay may be Nay, therein purity will grow, and patience will be exerciſed; your wills being kept in the Croſſe, to wait on the Lord in patience, till an entrance be made to your ſoules, and vertue and refreſhment come from the preſence of the Lord, and there is your Teacher alwayes preſent, and the Lord hath ſaid that he will teach the ſimple, and cauſe them that erred in ſpirit to underſtand Doctrine; therefore waite whol<g ref="char:EOLhyphen"/>ly on him within, that you may know the power of his truth within, working out all unrighteouſneſſe, and the power of his reſurrection, ruling by his ſpirit in the Kingdome of grace and glory, ſhining forth in brightneſſe to the praiſe of him who is the holy Lord God omnipotent, who doth ſhed abroad his eternall love in the ſpirits of his people, drawing out their mindes from all earthly carnall and viſible objects, to live holy within in that which is eternall, and invi<g ref="char:EOLhyphen"/>ſible, who draweth his people as with the cords of his love, to taſte how gracious he is, calling us out o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> darkneſſe into his marvellous light, quickning us by his ſpirit, the divine power of righteouſneſſe drawing up our affections into the eternall inviſible inflowing of his free love, which is the joy and delight of the be<g ref="char:EOLhyphen"/>loved ones of the Lord: to him alone be a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>praiſe, and honour, and glory, for overmore <hi>Amen.</hi>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:34329:11"/>
+All people every where that have a deſire to know the truth, know that it is the word of life, that ſanctifies and purifies ſoule and Spirit, and is the power of God to ſalvation, that do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ſet free from ſin and wrath, and redeemeth from under the curſe, for all have ſinned and falne from the Lord, and are feeding upon duſt, which is the Serpents meat, and whoſe mindes are yet in the E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h; delighting in viſible objects, are not acquainted with the Lord Jeſus Chriſt; who is the delight of his people, and leadeth them out of all the wayes and workes of darkneſs, and redeemeth them to himſelfe, out of all things that are earthly and carnall, to have their affections and hearts upon that which is inviſible and eternall, that they may partake of all his ſoule-ſatisfying comforts, and raigne with him in the Kingdom of his Father, being brought by him, into the glorious liberty of the Sons of God.</p>
+            <p>To live with him in the full fountaine of his Eter<g ref="char:EOLhyphen"/>nall Love, he being the everlaſting Prince of peace, and ſits upon his Throne of Glory in his Saints; That they may have free acceſſe to the Throne of Grace, where the Lords delight is, to whom be all honour, and glory for evermore, <hi>Amen.</hi> All you whoſe minds are yet in the Earth; ceaſe from all your Prieſts, they do deceive you, they are blinde guides and doe not profit you at all, becauſe they were never ſent of the Lord, <hi>Ier.</hi> 23.16. <hi>Thus ſaith the Lord, they ran but I did not ſend them, therefore they ſhall not profit this people at all</hi> 23. <hi>v. Ceaſe from them all every one, and waite upon the Lord for teaching, who hath promiſed to teach all his him<g ref="char:EOLhyphen"/>ſelfe,</hi> as in <hi>Iſa.</hi> 54 13. <hi>All the Children of the Lord are taught of the Lord, in righteouſneſs they are eſtabliſhed, and they are far from oppreſſion, and they ſhall not need any man to teach them,</hi> Ier. 31.34. <hi>The Lord alone is the Teacher of all his himſelfe;</hi> and he teacheth them to de<g ref="char:EOLhyphen"/>ny all ungodlineſſe, and worldly Luſts, and he teacheth them to be tender, and to be loving one to another
+<pb n="18" facs="tcp:34329:12"/>and to walke as obedient Children, before him, in all holy converſaiion, not faſhioning themſelves like unto the World, but he teacheth his Children to deny it; And faith, be not you conformed like unto the World, but be ye transformed by the renewing of your minds, that ye may know, what is that good, that ac<g ref="char:EOLhyphen"/>ceptable, and perfect will of God, who is pure, and will have his people ſo, a holy people, to bring forth fruit to his own praiſe, ſaith he, <hi>be ye holy as I am holy;</hi> for holineſſe becometh mine houſe for ever, and let your love be without diſſimulation, love not in word but in deed and truth; Love one another even with the ſame love, that I loved you withall, and be what you ſpeake in all things; Let your yea be yea, and your nay nay in all things, ſaith the Lord, its the up<g ref="char:EOLhyphen"/>right in heart that I delight in, and I love truth in the inward parts; and I would have you all my deare Children, to walke worthy of your Calling, that you may be a choſen Generation, a royall Prieſthood, a peculiar people, to ſhew forth my praiſe, who hath called you out of darknes into my marvelous light, walk as Children of the day, and bring forth fruit to my praiſe and glory. Fruits of the Spirit, Love and Peace, and Joy, Gentleneſſe, Goodneſſe and Meekneſſe, Temperance, Patience, Brotherly-kindneſſe, Long<g ref="char:EOLhyphen"/>ſuffering, forbearing and forgiving one another, and live in love and purity, building up one another in live, for this is well pleaſing unto me, ſaith the Lord God Almighty, I would not have you to be as the World is, becauſe they are Ignorant, and walke on in blindneſſe; being Children of the night, and they are carnall, and ſottiſh, and know me not. There<g ref="char:EOLhyphen"/>fore they know not you, my faithfulneſs, whom I have made choyce of; and redeemed you to my ſelfe, by the blood of the Lambe, that you may ſit at my Table, and be planted in my Houſe to ſhine forth in purity, having Union and Communion with mee,
+<pb n="19" facs="tcp:34329:12"/>being of the ſeed of <hi>Abraham,</hi> borne againe and par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akers of the word of Life, which liveth and abideth for ever, that you may rejoyce in my love, and raigne with me in my Kingdome of glory; I have made my Name knowne unto you, through my Eternall Power and Free-love, that it may be as a pretious Ointment, powring forth continually, to cheare up <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our hearts, my preſence being with you, having the word of lif in you, to feed upon, which is daily Bread, Bread of life, which the World knowes not of; There<g ref="char:EOLhyphen"/>fore doe they ſpeake evill of you my deare ones, who are as deare to me, as the Apple of mine Eye; I have loved you with an everlaſting love, freely for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Name-ſake, abide in it, and walke worthy of this high Calling, that I may be glorified by you, who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath done ſuch great things for you, as to make you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne with my ſelfe, I in you, and you in mee, that your whole delight may be in me, who giveth you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he deſire of your hearts: rejoyce you Saints and Righteous ones, the Lord is King, King of love, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat rules above in glory, taking our affections into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Eternall excellencies, being taken up into that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavenly Paradiſe, and eates of the ſpices there, where the King of Peace is their Keeper of that ſweet Garden of Spices where there is all varieties, joy in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove, and love in joy; Peace in reſt and reſt in peace, and mercy is the Seat, where the King of <hi>Salem</hi> doth abide, and brings his love thats made his Bride, be<g ref="char:EOLhyphen"/>trothed and eſpouſed to him, in his own righteouſneſs to be his darling and delight, to feed upon the Spices of his love; where there is a Banquetting houſe pre<g ref="char:EOLhyphen"/>pared, in the heat time of the Day, to go and drink deep draughts of his new Wine, to take full Cups of Comfort there, which doth the heart continually chear, and keeps it free from ſlaviſh feare, the King <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Keeper of his Vines and hedgeth them about, and cauſeth them to grow, and flouriſh in brightneſs
+<pb n="20" facs="tcp:34329:13"/>round about, and takes the Foxes that would them ſpoyle, and giveth all his enemes the foyle, ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wiſe in their own craftineſs, and hangs them in their own ſnares, and thats the reaſon why the wicked rage and fumes and ſayes, truly the Lord is good an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gracious indeed, and is a a preſent helpe in the greate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time of neede; he doth preſerve and keepe all thoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that truſt in him; even in the Treaſury of his own<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Defence, that he alone may bring them all, from thenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up to Mount <hi>Sion,</hi> where his Vin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yard is, that the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may all rejoyce together, the ove<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>flowing ſcorge bein<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſt; that they in him may have their joy, their peac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and eke their reſt; to ſing forth Halelujah, unt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, who is their keeper and their King, Rejoyce fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evermore.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Written in the time of</hi> Iſraels <hi>captivity,</hi>
+                  </date>
+               </dateline> 
+               <signed>
+                  <hi>by one whom the People of the World call a Quaker, by name</hi> RICH. FARNVVORTH</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34329:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
